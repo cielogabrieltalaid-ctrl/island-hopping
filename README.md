@@ -9,7 +9,7 @@ A beautiful, responsive website showcasing Island Hopping tours to Gilutongan, N
 
 ## 🌊 Live Website
 
-👉 **[Visit Island Hopping Cebu](https://YOUR-USERNAME.github.io/island-hopping-cebu/)**
+👉 **[Visit Island Hopping Cebu](https://cielogabrieltalaid-ctrl.github.io/island-hopping/#contact)**
 
 ## ✨ Features
 
